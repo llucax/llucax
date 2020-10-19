@@ -10,7 +10,7 @@ If you want to support me, I can accept sponsoring via these platforms (from
 the most preferred to the less preferred):
 
 [![GitHub Sponsors](https://img.shields.io/badge/-GitHub%20Sponsors-ea4aaa?logo=github)](https://github.com/sponsors/llucax)
-[![Liberapay](https://img.shields.io/badge/-Liberapay-f6c915?logo=liberapay&logoColor=black)](https://liberapay.com/llucax/)
+[![Liberapay](https://img.shields.io/badge/-Liberapay-f6c915?logo=liberapay&logoColor=black)](https://liberapay.com/llucax/donate)
 [![Paypal](https://img.shields.io/badge/-Paypal-0070ba?logo=paypal)](https://www.paypal.com/donate?hosted_button_id=UZRR3REUC4SY2)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-ff813f?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/llucax)
 [![Flattr](https://img.shields.io/badge/-Flattr-6bc76b?logo=flattr)](https://flattr.com/@llucax)
