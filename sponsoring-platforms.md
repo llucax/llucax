@@ -31,7 +31,7 @@ much I (dis)like the platform 🙃.
 
 [GitHub Sponsors](https://github.com/sponsors.) is my preferred platform, as it
 takes **ZERO** fees (the only one so far). Not even transactions fees, so
-**100%** of the money spend by sponsors reaches the people being sponsored, whic
+**100%** of the money spent by sponsors reaches the people being sponsored, whic
 is amazing!
 
 * **ZERO** fees.
