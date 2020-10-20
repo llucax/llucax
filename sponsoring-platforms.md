@@ -55,6 +55,9 @@ see who is sponsoring me via this platform.
 * Fees vary by payment processor, payment method, countries and currencies.
   The average is expected to be below 5% in all cases (but Liberapay doesn't
   take a cut, it only charges processing fees).
+  When paying with non European cards I think it should be around 2.9% + €0.25
+  and when using Stripe as a processor with an European card, 1.4% + €0.25.
+
 * It only supports recurring weekly, monthly and yearly payments. It doesn't
   support one-time payments but it has an option to manually renew the recurrent
   payments, so it can be effectively used for one-time payments with this in
@@ -70,9 +73,15 @@ see who is sponsoring me via this platform.
   linked to a contract nor a promise of recompense.
 * More information: https://liberapay.com/about/faq
 
-Fees examples:
+Fees examples (Liberapay doesn't give details, I'm getting the info from
+[Stripe](https://stripe.com/en-de/pricing) and
+[Paypal](https://www.paypal.com/us/webapps/mpp/fundraising), but I'm not sure
+if these are the conditions that really apply):
 
-* See Paypal for an example if you use Paypal as a payment processor.
+* See Paypal for an example for non European cards or when using Paypal.
+* You spend 1$ - I receive $0.74 (25% fee) with Stripe and European cards.
+* You spend 10$ - I receive $9.61 (3.9% fee) with Stripe and European cards.
+* You spend 100$ - I receive $98.37 (1.63% fee) with Stripe and European cards.
 
 ## Paypal [![Paypal](https://img.shields.io/badge/-Paypal-0070ba?logo=paypal)](https://www.paypal.com/donate?hosted_button_id=UZRR3REUC4SY2)
 
