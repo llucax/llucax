@@ -4,6 +4,7 @@
 [![Liberapay](https://img.shields.io/badge/-Liberapay-f6c915?logo=liberapay&logoColor=black)](https://liberapay.com/llucax/)
 [![Paypal](https://img.shields.io/badge/-Paypal-0070ba?logo=paypal)](https://www.paypal.com/donate?hosted_button_id=UZRR3REUC4SY2)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-ff813f?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/llucax)
+[![Patreon](https://img.shields.io/badge/-Patreon-F96854?logo=patreon&logoColor=white)](https://www.patreon.com/llucax)
 [![Flattr](https://img.shields.io/badge/-Flattr-6bc76b?logo=flattr)](https://flattr.com/@llucax)
 
 This page is dedicate to explain with a bit more detail what are the available
@@ -26,6 +27,11 @@ is hard to plan and make sure all the bills are paid this way.
 Sponsoring platforms are listed ordered of preference (I prefer the most the
 first one and the last the last one), either because of fees, features or how
 much I (dis)like the platform 🙃.
+
+All sponsorship platforms that have fees, are also probably subject to some
+extra fees when currency conversion is involved, but there is really very
+little to do about that.
+
 
 ## GitHub Sponsors [![GitHub Sponsors](https://img.shields.io/badge/-GitHub%20Sponsors-ea4aaa?logo=github)](https://github.com/sponsors/llucax)
 
@@ -129,6 +135,28 @@ Fees examples:
 * You spend 1$ - I receive 0.95$ (5% fee).
 * You spend 10$ - I receive 9.5$ (5% fee).
 * You spend 100$ - I receive 95$ (5% fee).
+
+## Patreon [![Patreon](https://img.shields.io/badge/-Patreon-F96854?logo=patreon&logoColor=white)](https://www.patreon.com/llucax)
+
+[Patreon](https://patreon.com/) is a quite popular platform similar to Buy Me
+A Coffee but more focused on content creators and giving benefits to patrons.
+The fees are considerably higher though, but it offers many tools to foster
+communities.
+
+* 5% fee from Patreon + 3.4%+0.35€ from payment processing fees (5%+0.15€ for
+  payments of 3€ or less).
+* Supports only recurring monthly payments.
+* It doesn't support free amounts.
+* Micro-payments are somehow supported with smaller fees.
+* Payments methods: Credit cards, Paypal
+* It requires a [Patreon](https://patreon.com/) account.
+* More information: https://www.patreon.com/product/pricing
+
+Fees examples:
+
+* You spend 1€ - I receive 0.8€ (20% fee).
+* You spend 10€ - I receive 9.32€ (6.8% fee).
+* You spend 100€ - I receive 96.36€ (3.6% fee).
 
 ## Flattr [![Flattr](https://img.shields.io/badge/-Flattr-6bc76b?logo=flattr)](https://flattr.com/@llucax)
 

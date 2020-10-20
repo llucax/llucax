@@ -88,6 +88,7 @@ I'm currently accepting sponsorship using the following platforms:
 [![Liberapay](https://img.shields.io/badge/-Liberapay-f6c915?logo=liberapay&logoColor=black)](https://liberapay.com/llucax/donate)
 [![Paypal](https://img.shields.io/badge/-Paypal-0070ba?logo=paypal)](https://www.paypal.com/donate?hosted_button_id=UZRR3REUC4SY2)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-ff813f?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/llucax)
+[![Patreon](https://img.shields.io/badge/-Patreon-F96854?logo=patreon&logoColor=white)](https://www.patreon.com/llucax)
 [![Flattr](https://img.shields.io/badge/-Flattr-6bc76b?logo=flattr)](https://flattr.com/@llucax)
 
 This is just to make supporter's lives easier. If you already use a sponsoring
