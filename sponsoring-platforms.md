@@ -1,7 +1,7 @@
 # Sponsoring options
 
 [![GitHub Sponsors](https://img.shields.io/badge/-GitHub%20Sponsors-ea4aaa?logo=github)](https://github.com/sponsors/llucax)
-[![Liberapay](https://img.shields.io/badge/-Liberapay-f6c915?logo=liberapay&logoColor=black)](https://liberapay.com/llucax/)
+[![Liberapay](https://img.shields.io/badge/-Liberapay-f6c915?logo=liberapay&logoColor=black)](https://liberapay.com/llucax/donate)
 [![Paypal](https://img.shields.io/badge/-Paypal-0070ba?logo=paypal)](https://www.paypal.com/donate?hosted_button_id=UZRR3REUC4SY2)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-ff813f?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/llucax)
 [![Patreon](https://img.shields.io/badge/-Patreon-F96854?logo=patreon&logoColor=white)](https://www.patreon.com/llucax)
@@ -52,7 +52,7 @@ Fees examples:
 
 * You spend 1$ - I receive 1$ (100%).
 
-## Liberapay [![Liberapay](https://img.shields.io/badge/-Liberapay-f6c915?logo=liberapay&logoColor=black)](https://liberapay.com/llucax/)
+## Liberapay [![Liberapay](https://img.shields.io/badge/-Liberapay-f6c915?logo=liberapay&logoColor=black)](https://liberapay.com/llucax/donate)
 
 [Liberapay](https://liberapay.com) is a non-profit and open sponsoring platform
 focusing on long term support and privacy and transparency. For example, I can't
