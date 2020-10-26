@@ -24,7 +24,7 @@ one-time one, as one of the big issues for people like me is reaching some
 stability. Even when is nice to receive a big unexpected *gift* once in a while,
 is hard to plan and make sure all the bills are paid this way.
 
-Sponsoring platforms are listed ordered of preference (I prefer the most the
+Sponsoring platforms are listed in order of preference (I prefer the most the
 first one and the last the last one), either because of fees, features or how
 much I (dis)like the platform 🙃.
 
