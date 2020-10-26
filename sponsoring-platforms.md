@@ -86,6 +86,9 @@ if these are the conditions that really apply):
 
 * See Paypal for an example for non European cards or when using Paypal.
 * You spend 1$ - I receive $0.74 (25% fee) with Stripe and European cards.
+  (this is proably a **very** worst case scenario; in order to minimize
+  processing fees, Liberapay will ask you to pay for multiple weeks in advance
+  for very small contributions)
 * You spend 10$ - I receive $9.61 (3.9% fee) with Stripe and European cards.
 * You spend 100$ - I receive $98.37 (1.63% fee) with Stripe and European cards.
 
