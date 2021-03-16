@@ -37,8 +37,8 @@ little to do about that.
 
 [GitHub Sponsors](https://github.com/sponsors.) is my preferred platform, as it
 takes **ZERO** fees (the only one so far). Not even transactions fees, so
-**100%** of the money spent by sponsors reaches the people being sponsored, whic
-is amazing!
+**100%** of the money spent by sponsors reaches the people being sponsored,
+which is amazing!
 
 * **ZERO** fees.
 * It only supports recurring monthly payments, no one-time payments option.
@@ -55,7 +55,7 @@ Fees examples:
 ## Liberapay [![Liberapay](https://img.shields.io/badge/-Liberapay-f6c915?logo=liberapay&logoColor=black)](https://liberapay.com/llucax/donate)
 
 [Liberapay](https://liberapay.com) is a non-profit and open sponsoring platform
-focusing on long term support and privacy and transparency. For example, I can't
+focusing on long term support, privacy and transparency. For example, I can't
 see who is sponsoring me via this platform.
 
 * Fees vary by payment processor, payment method, countries and currencies.
@@ -63,7 +63,6 @@ see who is sponsoring me via this platform.
   take a cut, it only charges processing fees).
   When paying with non European cards I think it should be around 2.9% + €0.25
   and when using Stripe as a processor with an European card, 1.4% + €0.25.
-
 * It only supports recurring weekly, monthly and yearly payments. It doesn't
   support one-time payments but it has an option to manually renew the recurrent
   payments, so it can be effectively used for one-time payments with this in
@@ -74,8 +73,7 @@ see who is sponsoring me via this platform.
 * Payments methods: Stripe, Paypal (both accept multiple options, like credit
   cards or bank transfer, depending on the country).
 * It requires a [Liberapay](https://liberapay.com) account.
-* It doesn't require an account.
-* It can only be used for donations, meaning that transactions must not be
+* It can only be used for *donations*, meaning that transactions must not be
   linked to a contract nor a promise of recompense.
 * More information: https://liberapay.com/about/faq
 
