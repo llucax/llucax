@@ -6,7 +6,8 @@
 Limit 100 characters.
 -->
 
-A software developer that loves Free/Open Source Software and is trying to make a living out of it.
+A software developer that loves Free/Open Source Software and is trying to make
+a living out of it.
 
 ## Full statement
 
@@ -49,7 +50,9 @@ you are just an angel out there looking at random developers to support, you
 can check out the following sites where I publish my work:
 
 * [Home Page](https://llucax.com/)
-* [GitHub](https://github.com/llucax)
+* GitHub: [Personal](https://github.com/llucax)
+  | [Lunofono](https://github.com/lunofono)
+  | [noclick.me](https://github.com/noclick-me)
 * [GitLab](https://gitlab.com/llucax)
 * [Dart/Flutter Pub](https://pub.dev/publishers/llucax.com/packages)
 * [Python PyPi](https://pypi.org/user/llucax)
@@ -62,12 +65,15 @@ case, and when possible even a patch. So I spend quite some time doing this,
 a type of work that is not easy to showcase, but extremely important in my
 opinion.
 
-Currently I'm focusing on a media player app for toddlers and small children,
-that it is safe and easy to use for them and easy to manage for parents. Also
-privacy is a **big** goal. Besides the player, I want to provide parents with
-a good content creation tool too, so they can create their own content (I know
-my kid loves to look at family pictures and videos). The app is not published
-yet, but I will do so when I have an MVP.
+Currently I'm focusing on a media player app for toddlers and small children
+(Lunofono), that it is safe and easy to use for them and easy to manage for
+parents. Also privacy is a **big** goal. Besides the player, I want to provide
+parents with a good content creation tool too, so they can create their own
+content (I know my kid loves to look at family pictures and videos). The app is
+not published yet, but I will do so when I have an MVP.
+
+I'm also developing a service to enlarge URLs so they are more self-descriptive
+([noclick.me](https://noclick.me)).
 
 ### 💖 Sponsoring my work
 

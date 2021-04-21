@@ -38,7 +38,7 @@ I've been involved in FOSS for more than 20 years (since the end of the 90s). I'
 I guess if you reached this page, you already know some project I'm working on (or have worked on) and you want to support that, but in the off-chance that you are just an angel out there looking at random developers to support, you can check out the following sites where I publish my work:
 
 * [Home Page](https://llucax.com/)
-* [GitHub](https://github.com/llucax)
+* GitHub: [Personal](https://github.com/llucax) | [Lunofono](https://github.com/lunofono) | [noclick.me](https://github.com/noclick-me)
 * [GitLab](https://gitlab.com/llucax)
 * [Dart/Flutter Pub](https://pub.dev/publishers/llucax.com/packages)
 * [Python PyPi](https://pypi.org/user/llucax)
@@ -46,11 +46,13 @@ I guess if you reached this page, you already know some project I'm working on (
 
 I am the type of developer that when bumps into a bug in an open source project, tries at the very least to make a good bug report, with a reduced test case, and when possible even a patch. So I spend quite some time doing this, a type of work that is not easy to showcase, but extremely important in my opinion.
 
-Currently I'm focusing on a media player app for toddlers and small children, that it is safe and easy to use for them and easy to manage for parents. Also privacy is a **big** goal. Besides the player, I want to provide parents with a good content creation tool too, so they can create their own content (I know my kid loves to look at family pictures and videos). The app is not published yet, but I will do so when I have an MVP.
+Currently I'm focusing on a media player app for toddlers and small children (Lunofono), that it is safe and easy to use for them and easy to manage for parents. Also privacy is a **big** goal. Besides the player, I want to provide parents with a good content creation tool, so they can create their own content (I know my kid loves to look at family pictures and videos). The app is still in development.
+
+I'm also developing a service to enlarge URLs so they are more self-descriptive ([noclick.me](https://noclick.me)).
 
 ### 💖 Sponsoring my work
 
-I always made a living on software development, and always tried to keep as much of the software I write open source. But I also always worked as an employee in a company, as it is not always easy with companies that struggle to see the value of open sourcing code (while running 90% of open source software to make profit, of course).
+I always made a living on software development, and always tried to keep as much of the software I write open source. But I also always worked as an employee in a company, as it is not always easy with companies that struggle to see the value of open sourcing code.
 
 I feel it is time to make a jump and at least try to make a living while doing open source, and writing meaningful software. I know it will be a hard jump, and that failure is very likely, but hey, I have to try, and I will be eternally thankful if you can sponsor my work.
 
@@ -60,4 +62,4 @@ I'm currently accepting sponsorship using the following platforms:
 
 This is just to make supporter's lives easier. If you already use a sponsoring platform, I don't want to force you to sign-up to another one.
 
-You should bear in mind that different platforms have different features and fees (so in the above list are sorted by preference). Currently the only platform that have **zero** fees is [GitHub Sponsors](https://github.com/sponsors/llucax), so if you can, please use that one. If you want to know exactly what are the features and fees of different platforms, have a look at the [summary](https://github.com/llucax/llucax/blob/main/sponsoring-platforms.md) I compiled.
+You should bear in mind that different platforms have different features and fees (so in the above list are sorted by preference). Currently the only platform that have **zero** fees is [GitHub Sponsors](https://github.com/sponsors/llucax). Please check this [summary](https://github.com/llucax/llucax/blob/main/sponsoring-platforms.md) for more info on the different platforms.
