@@ -6,6 +6,12 @@ years now. I've founded local Linux users groups and contributed to FOSS
 projects and wrote a few myself. Please check my [GitHub Sponsors
 page](https://github.com/sponsors/llucax) for more details about me.
 
+If you want to check my (past) contributions, I also have (had) other GitHub
+work account from which I also contribute(d) to FLOSS projects:
+
+* At Sociomantic / Dunnhumby: https://github.com/leandro-lucarella-sociomantic  **(deactivated)**
+* At Frequenz: https://github.com/leandro-lucarella-frequenz
+
 If you want to support me, I can accept sponsoring via these platforms (from
 the most preferred to the less preferred):
 
