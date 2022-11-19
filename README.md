@@ -9,8 +9,21 @@ page](https://github.com/sponsors/llucax) for more details about me.
 If you want to check my (past) contributions, I also have (had) other GitHub
 work account from which I also contribute(d) to FLOSS projects:
 
-* At Sociomantic / Dunnhumby: https://github.com/leandro-lucarella-sociomantic  **(deactivated)**
-* At Frequenz: https://github.com/leandro-lucarella-frequenz
+* At [Sociomantic](https://www.crunchbase.com/organization/sociomantic-labs),
+  then acquired by [Dunnhumby](https://www.dunnhumby.com/):
+  https://github.com/leandro-lucarella-sociomantic  **(deactivated)**
+
+  Here I was in charge of the FLOSS programme,
+  [Sociomantic Tsunami](https://github.com/sociomantic-tsunami/), which
+  outlived the company.
+
+* At (The) [Podcast App](https://podcast.app/):
+  https://github.com/lucatpa **(deactivated)**
+
+* At [Frequenz](https://frequenz.com):
+  https://github.com/leandro-lucarella-frequenz
+  
+  Also leading the FLOSS efforts.
 
 If you want to support me, I can accept sponsoring via these platforms (from
 the most preferred to the less preferred):
