@@ -21,7 +21,7 @@ work account from which I also contribute(d) to FLOSS projects:
   https://github.com/lucatpa **(deactivated)**
 
 * At [Frequenz](https://frequenz.com):
-  https://github.com/leandro-lucarella-frequenz
+  https://github.com/leandro-lucarella-frequenz **(deactivated, using my personal account there now)**
   
   Also leading the FLOSS efforts.
 
